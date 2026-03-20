@@ -1,0 +1,22 @@
+# RAG Chatbot - Requirements
+# Install with: pip install -r requirements.txt
+
+# LangChain core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Embeddings
+sentence-transformers
+
+# Vector store
+faiss-cpu
+
+# HuggingFace LLM
+transformers
+accelerate
+torch
+
+# Streamlit UI
+streamlit
